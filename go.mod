@@ -1,6 +1,6 @@
 module github.com/Willyham/hashfill
 
-go 1.20
+go 1.12
 
 require (
 	github.com/engelsjk/polygol v0.0.3
