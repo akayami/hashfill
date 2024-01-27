@@ -3,15 +3,17 @@ module github.com/Willyham/hashfill
 go 1.20
 
 require (
+	github.com/engelsjk/polygol v0.0.3
 	github.com/mmcloughlin/geohash v0.10.0
-	github.com/paulmach/orb v0.11.0
-	github.com/paulsmith/gogeos v0.1.2
 	github.com/stretchr/testify v1.8.4
 	github.com/twpayne/go-geom v1.5.3
 )
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/engelsjk/splay-tree v0.0.1 // indirect
+	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
